@@ -1,12 +1,24 @@
 # Grupo_5
-Integrantes: Gary Rodriguez, Julián Ariel Torres, Jhonatan Nina y Ayrton Rada Espinoza. 
-Descripciones:
+
+# Integrantes: 
+
 Gary Rodriguez: egresado Técnico químico me gusta aprender y ver de todo, me divierte la programación y el desarrollo web, con ganas de hacer un el mejor proyecto posible.
+
 Julián Ariel Torres: egresado con Bachiller en Economía y Administración. Me gustan los videojuegos, la música y el Desarrollo Web.
 
-Descripción de la página:
+Jhonatan Nina: egresado técnico en programación. Sus pasiones son 
+el fútbol, la programación, los videojuegos y la música, con ganas de aprender muchas cosas respecto al mundo IT.
 
-Sitios web que usamos como inspiración:
+# Descripción de la página:
+
+En este proyecto desarrollamos un sitio ecomerce que se enfoca en la venta de videojuegos para las plataformas mas reconocidas 
+
+
+# publico:
+
+
+
+# Sitios web que usamos como inspiración:
 
 https://store.steampowered.com/: homepage
 
