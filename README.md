@@ -20,13 +20,13 @@ En este proyecto desarrollamos un sitio ecomerce que se enfoca en la venta de vi
 
 # Sitios web que usamos como inspiración:
 
-https://store.steampowered.com/: homepage
+https://store.steampowered.com/: Para la homepage
 
-https://store.ubi.com: Para el formulario de Login, ya que es sencillo de entender, parte del header
+https://store.ubi.com:
 
-https://www.gog.com/
+https://www.gog.com/: Para el formulario de Login, ya que es sencillo de entender.
 
-https://www.xtralife.com/gree - detalles al momento de comprar el juego
+https://www.xtralife.com/gree: Para los detalles al momento de comprar el juego
 
 https://www.greenmangaming.com
 
