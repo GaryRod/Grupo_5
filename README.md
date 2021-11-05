@@ -2,6 +2,7 @@
 Integrantes: Gary Rodriguez, Julián Ariel Torres, Jhonatan Nina y Ayrton Rada Espinoza. 
 Descripciones:
 Gary Rodriguez: egresado Técnico químico me gusta aprender y ver de todo, me divierte la programación y el desarrollo web, con ganas de hacer un el mejor proyecto posible.
+Julián Ariel Torres: egresado con Bachiller en Economía y Administración. Me gustan los videojuegos, la música y el Desarrollo Web.
 
 Descripción de la página:
 
