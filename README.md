@@ -2,7 +2,7 @@
 
 ## Integrantes: 
 
-Gary Rodriguez: egresado Técnico químico me gusta aprender y ver de todo, me divierte la programación y el desarrollo web, con ganas de hacer un el mejor proyecto posible.
+Gary Rodriguez: egresado Técnico químico. Me gusta aprender y ver de todo, me divierte la programación y el desarrollo web, con ganas de hacer el mejor proyecto posible.
 
 Julián Ariel Torres: egresado con Bachiller en Economía y Administración. Me gustan los videojuegos, la música y el Desarrollo Web.
 
@@ -16,7 +16,7 @@ En este proyecto desarrollamos un sitio ecommerce que se enfoca en la venta de v
 
 ## Público:
 
-Nuestro público es cualquier persona que se anime a probar los juegos y divertise.
+Nuestro público es cualquier persona que se anime a probar los juegos y divertise. Nuestro público son jóvenes de entre 16 y 35 años interesados por los videojuegos
 
 ## Sitios web que usamos como inspiración:
 
@@ -25,9 +25,9 @@ https://store.steampowered.com/: Inspiración para el homepage con sus sliders q
 https://store.ubi.com: De esta página se tomo como inspiración el header con su buscador. 
 Para el formulario de Login, ya que es sencillo de entender
 
-https://www.gog.com/
+https://www.gog.com/: Para el formulario de Login, ya que es sencillo de entender
 
-https://www.xtralife.com/gree - detalles al momento de comprar el juego
+https://www.xtralife.com/gree: Para los detalles al momento de comprar el juego
 
 https://www.greenmangaming.com
 
