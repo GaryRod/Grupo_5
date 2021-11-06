@@ -24,7 +24,7 @@ https://store.steampowered.com/: Inspiración para el homepage con sus sliders q
 
 https://store.ubi.com: De esta página se tomo como inspiración el header con su buscador.
 
-https://www.gog.com/: Para el formulario de Login, ya que es sencillo de entender
+https://www.gog.com/: Para el formulario de Login, ya que es sencillo de entender y aporta una sensación de carga más rápida, siendo agradable para el usuario.
 
 https://www.xtralife.com/gree: Para los detalles al momento de comprar el juego
 
