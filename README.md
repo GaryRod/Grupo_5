@@ -24,7 +24,7 @@ Nuestro público son jóvenes de entre 16 y 35 años interesados por los videoju
 
 - [Ubisoft Store](https://store.ubi.com): De esta página se tomo como inspiración el header con su buscador.
 
-- [GOG](https://www.gog.com): Para el formulario de Login, ya que es sencillo de entender.
+- [GOG](https://www.gog.com): Formulario de Login sencillo de entender y aporta una sensación de carga más rápida, siendo agradable para el usuario.
 
 - [xtralife](https://www.xtralife.com/gree): Para los detalles al momento de comprar el juego.
 
