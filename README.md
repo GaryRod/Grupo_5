@@ -16,14 +16,13 @@ En este proyecto desarrollamos un sitio ecommerce que se enfoca en la venta de v
 
 ## Público:
 
-Nuestro público es cualquier persona que se anime a probar los juegos y divertise. Nuestro público son jóvenes de entre 16 y 35 años interesados por los videojuegos
+Nuestro público son jóvenes de entre 16 y 35 años interesados por los videojuegos como obejtivo principal pero creemos que cualquiera podría disfrutar de los juegos.
 
 ## Sitios web que usamos como inspiración:
 
 https://store.steampowered.com/: Inspiración para el homepage con sus sliders que tienen información adicional junto a la imagen principal del juego.
 
-https://store.ubi.com: De esta página se tomo como inspiración el header con su buscador. 
-Para el formulario de Login, ya que es sencillo de entender
+https://store.ubi.com: De esta página se tomo como inspiración el header con su buscador.
 
 https://www.gog.com/: Para el formulario de Login, ya que es sencillo de entender
 
