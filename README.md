@@ -2,11 +2,11 @@
 
 ## Integrantes: 
 
-Gary Rodriguez: egresado Técnico químico. Me gusta aprender y ver de todo, me divierte la programación y el desarrollo web, con ganas de hacer el mejor proyecto posible.
+__Gary Rodriguez__: egresado Técnico químico. Me gusta aprender y ver de todo, me divierte la programación y el desarrollo web, con ganas de hacer el mejor proyecto posible.
 
-Julián Ariel Torres: egresado con Bachiller en Economía y Administración. Me gustan los videojuegos, la música y el Desarrollo Web.
+__Julián Ariel Torres__: egresado con Bachiller en Economía y Administración. Me gustan los videojuegos, la música y el Desarrollo Web.
 
-Jhonatan Nina: egresado técnico en programación. Sus pasiones son 
+__Jhonatan Nina__: egresado técnico en programación. Sus pasiones son 
 el fútbol, la programación, los videojuegos y la música, con ganas de aprender muchas cosas respecto al mundo IT.
 
 ## Descripción de la página:
@@ -16,18 +16,18 @@ En este proyecto desarrollamos un sitio ecommerce que se enfoca en la venta de v
 
 ## Público:
 
-Nuestro público son jóvenes de entre 16 y 35 años interesados por los videojuegos como obejtivo principal pero creemos que cualquiera podría disfrutar de los juegos.
+Nuestro público son jóvenes de entre 16 y 35 años interesados por los videojuegos como obejtivo principal pero creemos que cualquiera podría disfrutarlos.
 
 ## Sitios web que usamos como inspiración:
 
-https://store.steampowered.com/: Inspiración para el homepage con sus sliders que tienen información adicional junto a la imagen principal del juego.
+- [Steam](https://store.steampowered.com): Inspiración para el homepage con sus sliders que tienen información adicional junto a la imagen principal del juego.
 
-https://store.ubi.com: De esta página se tomo como inspiración el header con su buscador.
+- [Ubisoft Store](https://store.ubi.com): De esta página se tomo como inspiración el header con su buscador.
 
-https://www.gog.com/: Para el formulario de Login, ya que es sencillo de entender
+- [GOG](https://www.gog.com): Para el formulario de Login, ya que es sencillo de entender.
 
-https://www.xtralife.com/gree: Para los detalles al momento de comprar el juego
+- [xtralife](https://www.xtralife.com/gree): Para los detalles al momento de comprar el juego.
 
-https://www.greenmangaming.com
+- [Green Man Gaming](https://www.greenmangaming.com)
 
-https://www.instant-gaming.com/es/ 
+- [Instant-Gaming](https://www.instant-gaming.com/es)
