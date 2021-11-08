@@ -1,16 +1,16 @@
-# Grupo_5
+# Grupo_5_Game_Soul
 
 ## Integrantes: 
 
-__Gary Rodriguez__: egresado Técnico químico. Me gusta aprender y ver de todo, me divierte la programación y el desarrollo web, con ganas de hacer el mejor proyecto posible.
+__Gary Rodriguez__: egresado Técnico Químico. Me gusta aprender y ver de todo, me divierte la programación y el desarrollo web, con ganas de hacer el mejor proyecto posible.
 
 __Julián Ariel Torres__: egresado con Bachiller en Economía y Administración. Me gustan los videojuegos, la música y el Desarrollo Web.
 
-__Jhonatan Nina__: egresado técnico en programación. Sus pasiones son 
+__Jhonatan Nina__: egresado Técnico en Programación. Sus pasiones son 
 el fútbol, la programación, los videojuegos y la música, con ganas de aprender muchas cosas respecto al mundo IT.
 
 __Ayrton Rada__: egresado Bachiller en Ciencias Sociales. Me apasiona la creación y desarrollo de tecnologías en Sistemas Informáticos, disfruto de la música clásica
-y tocas el piano.
+y tocar el piano.
 
 ## Descripción de la página:
 
@@ -29,8 +29,6 @@ Nuestro público son jóvenes de entre 16 y 35 años interesados por los videoju
 
 - [GOG](https://www.gog.com): Formulario de Login sencillo de entender y aporta una sensación de carga más rápida, siendo agradable para el usuario.
 
-- [xtralife](https://www.xtralife.com/gree): Para los detalles al momento de comprar el juego.
+- [xtralife](https://www.xtralife.com): Para los detalles al momento de comprar el juego.
 
-- [Green Man Gaming](https://www.greenmangaming.com)
-
-- [Instant-Gaming](https://www.instant-gaming.com/es)
+- [Instant-Gaming](https://www.instant-gaming.com/es): se usó como inspiración para el footer, un diseño centrado que deja espacios equitativos por su buena distribución.
