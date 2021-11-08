@@ -9,6 +9,9 @@ __Julián Ariel Torres__: egresado con Bachiller en Economía y Administración.
 __Jhonatan Nina__: egresado técnico en programación. Sus pasiones son 
 el fútbol, la programación, los videojuegos y la música, con ganas de aprender muchas cosas respecto al mundo IT.
 
+__Ayrton Rada__: egresado Bachiller en Ciencias Sociales. Me apasiona la creación y desarrollo de tecnologías en Sistemas Informáticos, disfruto de la música clásica
+y tocas el piano.
+
 ## Descripción de la página:
 
 En este proyecto desarrollamos un sitio ecommerce que se enfoca en la venta de videojuegos para las plataformas mas reconocidas. Creemos que hay juegos para todos, lo importante es divertirse, pasarlo bien y lo reflejamos en el nombre de nuestra empresa.
