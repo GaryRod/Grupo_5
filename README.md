@@ -27,8 +27,8 @@ Nuestro público son jóvenes de entre 16 y 35 años interesados por los videoju
 
 - [Ubisoft Store](https://store.ubi.com): De esta página se tomo como inspiración el header con su buscador.
 
-- [GOG](https://www.gog.com): Formulario de Login sencillo de entender y aporta una sensación de carga más rápida, siendo agradable para el usuario.
+- [GOG](https://www.gog.com): Formulario de Login sencillo de entender y aporta una sensación de carga más rápida, siendo agradable para el usuario. Su carrito de compras con todas las opciones de pago a la mano sin cargar otra página se hace más amigable.
 
 - [xtralife](https://www.xtralife.com): Para los detalles al momento de comprar el juego.
 
-- [Instant-Gaming](https://www.instant-gaming.com/es): se usó como inspiración para el footer, un diseño centrado que deja espacios equitativos por su buena distribución.
+- [Instant-Gaming](https://www.instant-gaming.com/es): Se usó como inspiración para el footer, un diseño centrado que deja espacios equitativos por su buena distribución.
